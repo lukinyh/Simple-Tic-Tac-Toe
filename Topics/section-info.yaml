@@ -1,0 +1,32 @@
+content:
+- Overloading
+- Arrays as parameters
+- StringBuilder
+- Constructor
+- Package
+- Static members
+- Hiding and overriding
+- Polymorphism
+- Scanning the input
+- Interface
+- NPE
+- Boxing and unboxing
+- The Collections Framework overview
+- Iterating over arrays
+- ArrayList
+- The List interface
+- Comparable
+- Processing strings
+- Abstract class
+- Enums in Java
+- Fields and methods in enum
+- Random
+- Multidimensional array
+- Files
+- Hierarchy of exceptions
+- Exception handling
+- Input streams
+- Throwing exceptions
+- Array exceptions
+- Custom exceptions
+- Math library

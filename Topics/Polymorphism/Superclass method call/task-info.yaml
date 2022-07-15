@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Encapsulation
+- text: Extending methods
+- text: Magic
+- text: Compile-time polymorphism
+- text: Inheritance
+- text: Run-time polymorphism
+- text: Data abstraction
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2256#comment
+status: Solved
+record: -1
